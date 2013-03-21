@@ -1,5 +1,5 @@
 name: Color.More
 author: robotacon
 category: Native
-tags: [color, multiply, screen, dim, light, shine]
-current: 0.1.0
+tags: [color, multiply, screen, overlay, dim, light, shine, hex, normal]
+current: 0.2
