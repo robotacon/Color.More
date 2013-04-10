@@ -1,7 +1,9 @@
 Color.More
 ==========
 
-Provides additional functions for Mootools Color.
+![Screenshot](https://github.com/robotacon/Color.More/raw/master/logo.png)
+
+Provides additional functions for Mootools Color.	
 
 How to use
 ----------
