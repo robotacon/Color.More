@@ -3,7 +3,7 @@ Color.More
 
 ![Screenshot](https://github.com/robotacon/Color.More/raw/master/logo.png)
 
-Provides additional functions for Mootools Color.	
+Provides additional functions for MooTools Color.	
 
 How to use
 ----------

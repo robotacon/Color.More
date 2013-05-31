@@ -12,23 +12,23 @@ license: MIT-style
 authors: Tor Viktorsson
 
 requires:   
-  - Core/Array
-  - Core/String
-  - Core/Number
-  - Core/Hash
-  - Core/Function
-  - MooTools.More
-  - Color
+ - Core/Array
+ - Core/String
+ - Core/Number
+ - Core/Hash
+ - Core/Function
+ - MooTools.More
+ - Color
 
 provides:
-- Color.multiply
-- Color.screen
-- Color.overlay
-- Color.dim
-- Color.light
-- Color.shine
-- Color.toHex
-- $NORMAL
+ - Color.multiply
+ - Color.screen
+ - Color.overlay
+ - Color.dim
+ - Color.light
+ - Color.shine
+ - Color.toHex
+ - $NORMAL
 
 ...
 */
